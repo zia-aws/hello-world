@@ -1,3 +1,3 @@
-<h1> Hello,  !!! </h1>
-<h2> Deploying on Kubernetes </h2>
+<h1> THIS IS DEMO PROJECT !!! </h1>
+<h2> THIS PROJECT IS RUNNING ON DOCKER CONTAINER </h2>
 
